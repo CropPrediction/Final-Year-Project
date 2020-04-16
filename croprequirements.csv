@@ -1,0 +1,21 @@
+Crop,Suitability,Texture,pH,Slope,Slope_per,Slope_code,Erosion,Erosion_code,Gravel_code,Rocky_code,Drainage,Drainage_code,Depth,Depth_per,Depth_code,LCC,Temperature,Rainfall,LGP
+Castor,S1,"l,scl,sil,cl,sl",6.5-7.5,"level to nearly level, very gently sloping",<3,"A,B",slight erosion,A,A,A,well drained,A,"mod deep,deep,very deep",75-200,"A,B,C",1,26-32,600-750,110-150
+Castor,S2,"sicl,sic,sc,c",6.4-5.0,gently sloping,3 to 5,C,moderate erosion,B,B,B,moderately well drained,A,moderately shallow,50-75,C,2,33-35,400-600,120-150
+Castor,S3,"ls,c",8.1-9.0,moderately sloping,5 to 10,D,severe erosion,C,C,C,"poorly drained,excessively drained",C,shallow,25-50,E,3,36-40,250-400,90-120
+Castor,N,s,9.0-14,,,,,,,,,,very shallow,0-25,F,5,>40,250-400,0-90
+Groundnut,S1,"ls,sl,sil,l,scl,cl,sicl",6.0-8.0,"level to nearly level, very gently sloping",<3,"A,B",slight erosion,A,A,A,well drained,A,"mod deep,deep,very deep",75-200,"A,B,C",1,24-30,700-1000,
+Groundnut,S2,"cl,sicl,scl,sc,sic,c","8.1-8.5,5.5-5.9",gently sloping,3 to 5,C,moderate erosion,B,B,B,moderately well drained,A,moderately shallow,51-75,D,2,"22-23,31-33",500-700,
+Groundnut,S3,"c,sic,s,ls,sl","8.5-14,0-5.5",moderately sloping,5 to 10,D,severe erosion,C,C,C,imperfectly drained,B,shallow,25-50,E,3,"20-21,34-40",350-500,
+Groundnut,N,,,,>10,,,,,,poorly drained,C,very shallow,0-25,F,5,"0-20,40-60",0-350,
+Ragi,S1,"l,sil,sl,cl,sicl,scl",5.5-7.5,"level to nearly level, very gently sloping",<3,"A,B",slight erosion,A,A,A,"well drained, moderately well drained",A,"mod deep,deep,very deep",75-200,"A,B,C",1,28-34,750-900,110-150
+Ragi,S2,"sic,c,sc","7.6-8.5,4.5-5.4",gently sloping,3 to 5,C,moderate erosion,B,B,B,"imperfectly drained,somewhat excessively drained",B,moderately shallow,51-75,D,2,"25-27, 35-38",600-750,90-110
+Ragi,S3,"ls,s,c","8.6-9.5,4.0-4.4",moderately sloping,5 to 10,D,severe erosion,C,C,C,"poorly drained,excessively drained",C,shallow,25-50,E,3,"20-24,39-40",450-600,60-90
+Ragi,N,,0.0-4.0,,>10,,,,,,,,very shallow,0-25,F,5,"0-20,40-60",0-450,0-60
+Rice,S1,"c,sic,cl,sicl,sc",5.5-6.5,"level to nearly level, very gently sloping",<3,"A,B",slight erosion,A,A,A,imperfectly drained,B,"mod deep,deep,very deep",75-200,"A,B,C",1,30-34,1110-1250,
+Rice,S2,"scl,sil,l","6.4-7.5,4.5-5.4","level to nearly level, very gently sloping",<3,"A,B",slight erosion,A,A,A,moderately well drained,A,moderately shallow,51-75,D,2,"21-29,35-38",900-1110,
+Rice,S3,"sl,ls",7.6-8.5,gently sloping,3 to 5,C,moderate erosion,B,B,B,"well drained,somewhat excessively drained","A,B",shallow,25-50,E,3,"15-20,39-40",750-900,
+Rice,N,s,"8.5-14,0-4.5",moderately sloping,5 to 10,D,severe erosion,C,C,C,excessively drained,C,very shallow,0-25,F,5,"0-15,40-60",<750,
+Sugarcane,S1,"l,cl,sil,sicl",7.0-8.0,"level to nearly level, very gently sloping",<3,"A,B",slight erosion,A,A,A,well drained,A,"deep,very deep",100-200,"A,B",1,30-34,,
+Sugarcane,S2,"sl,ls","6.0-6.9,8.1-9.0",gently sloping,3 to 5,C,moderate erosion,B,B,B,"moderately well drained,imperfectly drained","A,B",moderately deep,75-100,C,2,26-29.35-38,,
+Sugarcane,S3,c,"4.0-5.9,9.1-9.5",moderately sloping,5 to 8,D,severe erosion,C,C,C,poorly drained,C,moderately shallow,50-75,D,3,"25-30,33-40",,
+Sugarcane,N,,"0.0-4.0,9.5-14",,8 to 10,,,,,,"very poorly,excessively drained",C,"shallow,very shallow",0-50,"E,F",5,"<30,>40",,
